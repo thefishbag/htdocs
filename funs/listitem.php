@@ -164,21 +164,15 @@
 	</div>
 	<div class="dia" title="关联营销" id="diaRelation">
 		<div id="diaRtitle">
+
 			<div id="diaRddlA">
-				<div id="ddlGroup">
-					<h3>商品分组</h3>
 				
-					<ul>
-						<li>1111</li>
-						<li>1111</li>
-						<li>1111</li>
-						<li>1111</li>
-					</ul>
-				</div>
+					
+				
 			</div>
 			
 			
-			<input w="550" h="40" def="" title="标题" type="text" id="txtRsearch" />
+			<input w="550" h="40" def="" maxlength="128" title="标题" type="text" id="txtRsearch" />
 			<div id="btnDRsearch">搜索</div>
 		</div>
 		<div id="diaRshow">
@@ -196,24 +190,7 @@
 			</div>
 		</div>
 		<div id="diaRres">
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
-			<div class="diaRresImgA"><img class="diaRresImg" src="css/images/bigfish.png"></div>
+
 			
 		</div>
 	</div>

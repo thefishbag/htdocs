@@ -200,14 +200,14 @@
 
 
 /*关联营销弹出框*/
-#diaRddlA{ width: 170px; height: 30px; position: relative; float: left;}
-#diaRtitle{height: 50px; width: 1060px; margin: auto;}
+#diaRddlA{ width: 170px; height: 30px; position: relative; float: left; }
+#diaRtitle{height: 50px; width: 1060px; margin: auto; z-index: 5; position: relative;}
 
 #btnDRsearch{width: 120px; height: 20px; padding: 10px 0 10px 0; font-size: 12px; color: #666; border:1px solid #b9b9b9; cursor: pointer; float: left;margin-right: 15px;}
 #btnDRsearch:hover{background-color: #454e59; color: #fff;border:1px solid #999; font-weight: bold; }
-#diaRshow{height: 400px;border:1px solid #bbb; width: 1060px; margin: auto;}
-#diaRres{height: 130px; margin: 2px auto; padding: 5px 0 5px 5px; border:1px solid #ccc; width: 1060px;}
-#diaRSpros{height: 370px;}
+#diaRshow{height: 350px;border:1px solid #bbb; width: 1060px; margin: auto; position: relative; z-index: 4;}
+#diaRres{height: 130px; margin: 2px auto; padding: 5px 0 5px 5px; border:1px solid #ccc; width: 1060px; position: relative;z-index: 4;}
+#diaRSpros{height: 320px;overflow: auto;}
 #diaRSpageInfo{height: 20px; padding: 3px 0 3px 0;}
 .diaRresImgA{
 	width: 60px; height: 60px; float: left;margin-right: 4px;margin-bottom: 3px; border:1px solid #bbb;
@@ -221,7 +221,9 @@
 	left: 43px; top:0; color: #cc0033; border-left: 1px solid #bbb; border-bottom: 1px solid #bbb; 
 	background-color: #ffffff;
 }
+.product_item{ width: 40px; height: 40px;  float: left; padding: 3px;cursor: pointer; }
 
+.product_item img{max-width: 40px; max-height: 40px; border:1px solid #bbbbbb; margin: auto;}
 
 /*页码区域*/
 #pageSpanA{

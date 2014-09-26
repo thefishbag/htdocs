@@ -40,7 +40,9 @@
 	$aliCateID = isset($_POST["aliCateID"])?$_POST["aliCateID"]:"";
 	$aeCateID = isset($_POST["aeCateID"])?$_POST["aeCateID"]:"";
 	$parentCateID = isset($_POST["parentCateID"])?$_POST["parentCateID"]:"";
-
+	$title = isset($_POST["title"])?$_POST["title"]:"";
+	$currentPage = isset($_POST["currentPage"])?$_POST["currentPage"]:"";
+	$groupid = isset($_POST["groupid"])?$_POST["groupid"]:"";
 	if ($flag == "" || $machineCode == "") {
 		echo "fail:Error arguments!";
 		die();
@@ -210,6 +212,21 @@
 
 		$res = '{"appkey":"' . $APPKEY . '",appSecret:"' . $APPSECRET . '",url:"' . $REDIRECT_URI . '"}';
 		echo $res;
+		die();
+	}
+	if ($flag == "searchAEprosByTitle" && $aliowner != "" && $currentPage != "" ) {
+		$anytoken = getToken($aliowner);
+
+		$url = "http://gw.api.alibaba.com:80/openapi/param2/1/aliexpress.open/api.findProductInfoListQuery/$appkey?access_token=$anytoken&productStatusType=onSelling&subject=$title&groupId=$groupid&pageSize=100&currentPage=$currentPage";
+		$res = httpgo($url,"");
+
+		// $file1 = 'newfile.txt';
+		// $fp = fopen($file1, 'w');
+		// fwrite($fp, $res);
+		// fclose($fp);
+
+
+		echo  $res;
 		die();
 	}
 	function getAliSign($appSecret,$pars,$apiInfo){

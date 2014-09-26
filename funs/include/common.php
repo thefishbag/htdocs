@@ -8,6 +8,8 @@
 			die();
 		}
 		$keys = array_keys($_SESSION["stores"]);
+		$me = ($owner == "")?$keys[0]:$owner;
+	
 		$me = $keys[0];
 		$tokenCode = isset($_SESSION["stores"][$me]["accessToken"])?$_SESSION["stores"][$me]["accessToken"]:"";
 		$expireTime = isset($_SESSION["stores"][$me]["expiretime"])?$_SESSION["stores"][$me]["expiretime"]:"";

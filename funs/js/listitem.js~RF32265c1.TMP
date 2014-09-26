@@ -27,14 +27,21 @@ function relaInit(){
 	});
 	$(document).on("click",".diaResDel",function(){
 		var eleParent = $(this).parent();
-		eleParent.fadeOut(100,function(){
+		eleParent.fadeOut(500,function(){
 			eleParent.remove();
 		});
 		
 	});
 	$("#ddlGroup").dropdown({width:150});
 	$("#txtRsearch").Mtext();
-	
+	$(".diaRresImgA").hover(function(){
+		$(this).css({"border":"1px solid #ff7800"});
+		$(this).find(".diaResDel").remove();
+		$(this).append('<i class="fa fa-times diaResDel"></i>');
+	},function(){
+		$(this).find(".diaResDel").remove();
+		$(this).css({"border":"1px solid #bbbbbb"});
+	});
 	
 }
 function unsetListItem(){
@@ -899,7 +906,7 @@ function makeDia(){
 	});
 
 	$("#diaRelation").dialog({
-		width:1200,
+		width:1100,
 		height:670,
 		modal:true,
 		buttons:{
@@ -993,79 +1000,17 @@ function Serialize(obj){
     }
 }
 function searchAEprosByTitle(title,groupid,currentPage,owner){
-
 	$.ajax({
 		url:"include/ajaxhttp.php",
 		data:{flag:'searchAEprosByTitle',aliowner:owner,title:title,currentPage:currentPage},
 		type:"POST",
 		success:function(res){
 			alert(res);
-			var obj = eval("(" + res + ")");
-			if (!obj) {
-				alert("查询失败！");
-				return;
-			}
-			showAEsearchRes(obj);
 		}
 	});
 }
+	
 
-//显示
-function showAEsearchRes(obj){
-	var productCount = obj.productCount;
-	var currentPage = obj.currentPage;
-	var totalPage = obj.totalPage;
-	var aeopAEProductDisplayDTOList = obj.aeopAEProductDisplayDTOList;
-	$("#diaRSpros").html("");
-	var html = "";
-	$.each(aeopAEProductDisplayDTOList,function(){
-		var subject = this.subject;
-		var imageURLs = this.imageURLs;
-		var productMinPrice = this.productMinPrice;
-		var arrImageURL = imageURLs.split(';');
-		var productId = this.productId;
-		html +='<div productId="' + productId + '" proImg="' + arrImageURL[0] + '" subject="'+subject+'" isSelected="false" class="product_item"><img src="' + arrImageURL[0] + '" /></div>';
-
-	});
-	$("#diaRSpros").html(html);
-	$(".product_item").hover(function(){
-		var isSelected = $(this).attr("isSelected");
-		if (isSelected == "true") {
-			return;
-		}
-		$(this).find("img").css("border","1px solid #ff7800");
-	},function(){
-		var isSelected = $(this).attr("isSelected");
-		if (isSelected == "true") {
-			return;
-		}
-		$(this).find("img").css("border","");
-	});
-}
-
-function clickRelaPro(ele){
-	var isSelected = ele.attr("isSelected");
-	var productId = ele.attr("productId");
-	var proImg = ele.attr("proImg");
-	var subject = ele.attr("subject");
-	if (isSelected == "true") {
-		ele.attr("isSelected","false");
-		var resID = "diaRresImgA" + productId;
-		$("#" + resID).remove();
-	}else{
-		var html = '<div id="diaRresImgA' + productId + '" title="' + subject + '" subject="' + subject + '" productId="' + productId + '" proImg="' + proImg + '" class="diaRresImgA"><img class="diaRresImg" src="' + proImg +'"></div>';
-		$("#diaRres").append(html);
-		$(".diaRresImgA").hover(function(){
-			$(this).css({"border":"1px solid #ff7800"});
-			$(this).find(".diaResDel").remove();
-			$(this).append('<i class="fa fa-times diaResDel"></i>');
-		},function(){
-			$(this).find(".diaResDel").remove();
-			$(this).css({"border":"1px solid #bbbbbb"});
-		});
-		ele.attr("isSelected","true");
-	}
-}
 function initDelegate(){
 	$("#curCate").click(function(){
 		selecteNewCate();
@@ -1191,11 +1136,6 @@ function initDelegate(){
 		if (groupid == "") {return;}
 		$(this).parent().parent().parent().parent().attr("groupid",groupid);
 	});
-	$(document).on('click',"#diaRddlA li",function(){
-		var groupid = $(this).attr("groupid");
-		if (groupid == "") {return;}
-		$("#ddlGroup").attr("groupid",groupid);
-	});
 
 	$(document).on('click',".shipspan .myddl li",function(){
 		var shipid = $(this).attr("shipid");
@@ -1218,13 +1158,6 @@ function initDelegate(){
 		$("#ddlGroup").attr("groupid",groupid);
 	});
 	
-	$(document).on("click",".product_item",function(){
-		//html +='<div productId="' + productId + '" proImg="' + arrImageURL[0] + '" subject="'+subject+'" isSelected="false" class="product_item"><img src="' + arrImageURL[0] + '" /></div>';
-
-		clickRelaPro($(this));
-
-	});
-
 
 	//搜索商品
 	$("#btnDRsearch").click(function(){
@@ -1232,7 +1165,7 @@ function initDelegate(){
 		var groupid = $("#ddlGroup").attr("groupid");
 		var aliowner = $("#ddlGroup").attr("aliowner");
 	
-		if (title == "" && groupid == "") {
+		if (title == "" ) {
 			return;
 		}
 		searchAEprosByTitle(title,groupid,1,aliowner);
