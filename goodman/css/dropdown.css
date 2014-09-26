@@ -1,0 +1,9 @@
+ul,li{list-style: none;}
+.dl{border:1px solid #1d9e74; padding: 1px; cursor: pointer; color: #1d9e74;  z-index: 9999; background-color: #ffffff; position: absolute;}
+.dlTitle{ display: block; border:1px solid #1d9e34; height: 30px; background-color: #fdfee4;}
+.dlContent{height: auto; width: 100%; display: none; }
+.dlContent li{height: 30px; line-height: 30px; font-size: 12px; overflow: hidden; }
+.dlContent li:hover{background-color: #1d9e74; color: #f9f9f9; }
+.dlTitle i{ display: inline-block; float: right; font-size: 12px; line-height: 30px; margin-right: 5px;}
+.ddts{display: inline-block; height: 30px; line-height: 30px; overflow: hidden;font-size: 14px; font-weight: bold; float: left;  }
+.keycolor{border:1px solid #ff7800; color: #ff7800}

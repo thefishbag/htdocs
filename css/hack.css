@@ -1,0 +1,17 @@
+
+.tr-fixed-ff {
+    position: fixed;
+  	top: 0px;
+  	width: 98%;
+  	/* IE6改为绝对定位，并通过css表达式根据滚动位置更改top的值 */
+	_position: absolute;
+	_top: expression(eval(document.documentElement.scrollTop));
+}
+
+.tr-fixed-ie {
+    position: fixed;
+  	top: 0px;
+  	/* IE6改为绝对定位，并通过css表达式根据滚动位置更改top的值 */
+	_position: absolute;
+	_top: expression(eval(document.documentElement.scrollTop));
+}

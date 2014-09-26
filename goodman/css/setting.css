@@ -1,0 +1,27 @@
+*{margin: 0;padding: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+body{text-align: center;}
+#all{width: 1200px; margin: auto;}
+#aeCateA{height: 50px; }
+#aliCateA{height: 50px;}
+.myddl{float: left; }
+.ddlC{width: 170px; height: 50px; float: left; position: relative;}
+.aliddlC{width: 170px; height: 50px; float: left; position: relative;}
+.aliAttrsddlC{width: 170px; height: 50px; float: left; position: relative;}
+.aeAttrsddlC{width: 170px; height: 50px; float: left; position: relative;}
+.aeValuesddlC{width: 170px; height: 50px; float: left; position: relative;}
+.aliValuesddlC{width: 170px; height: 50px; float: left; position: relative;}
+
+
+#attrA{height: 50px;}
+#aeAttrsA{width: 550px; float: left; height: 50px;}
+#aliAttrsA{width: 550px; float: right; height: 50px;}
+
+#valueA{height: 50px;}
+#aeValuesA{width: 550px; float: left; height: 50px;}
+#aliValuesA{width: 550px; float: right; height: 50px;}
+
+#ope{height: 100px;}
+.btn{width: 350px; margin-right: 20px; float: left; height: 20px; padding: 30px 0 30px 0; border:1px solid #bbb; border-radius: 15px; color: #666; cursor: pointer; }
+.btn:hover{color: #444;};

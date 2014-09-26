@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<info>
+  <users>
+    <user owner="cn1510216088">
+      <refreshCode>ce6ca8c7-4b01-4eaa-a4c5-0a3f4847d59b</refreshCode>
+      <aliid>1851273593</aliid>
+    </user>
+    <user owner="cn1510231478">
+      <refreshCode>76f26ae6-a091-4055-a319-59914b95532a</refreshCode>
+      <aliid>1864515182</aliid>
+    </user>
+    <user owner="cn1510974326">
+      <refreshCode>87317e55-5cd6-469f-8ca7-b71a89ce06b9</refreshCode>
+      <aliid>2039330490</aliid>
+    </user>
+  </users>
+  <priceD dot="1">
+    <price lprice="0" tprice="10" price="19">
+    </price>
+    <price lprice="11" tprice="30" price="25">
+    </price>
+    <price lprice="31" tprice="50" price="30">
+    </price>
+    <price lprice="51" tprice="100" price="34">
+    </price>
+    <price lprice="101" tprice="150" price="55">
+    </price>
+    <price lprice="151" tprice="200" price="76">
+    </price>
+    <price lprice="201" tprice="300" price="86">
+    </price>
+    <price lprice="301" tprice="400" price="110">
+    </price>
+    <price lprice="401" tprice="500" price="150">
+    </price>
+    <price lprice="501" tprice="600" price="190">
+    </price>
+    <price lprice="601" tprice="700" price="220">
+    </price>
+    <price lprice="701" tprice="800" price="250">
+    </price>
+    <price lprice="801" tprice="900" price="290">
+    </price>
+    <price lprice="901" tprice="1000" price="270">
+    </price>
+    <price lprice="1101" tprice="1200" price="320">
+    </price>
+    <price lprice="1201" tprice="1300" price="370">
+    </price>
+    <price lprice="1301" tprice="1400" price="390">
+    </price>
+    <price lprice="1401" tprice="1500" price="430">
+    </price>
+    <price lprice="1501" tprice="1600" price="460">
+    </price>
+    <price lprice="1601" tprice="1700" price="490">
+    </price>
+  </priceD>
+  <skuinfo>
+    <sku skuname="size" expressid="5" aliid="450">
+    </sku>
+    <sku skuname="color" expressid="14" aliid="3216">
+    </sku>
+    <sku skuname="Brand Name" expressid="2" aliid="2176">
+    </sku>
+    <sku skuname="Type" expressid="2" aliid="2176">
+    </sku>
+  </skuinfo>
+  <cateRel>
+    <cate expressCate="200001908" aliCate="1034162">
+    </cate>
+    <cate expressCate="200001911" aliCate="304">
+    </cate>
+    <cate expressCate="200000801" aliCate="1031917">
+    </cate>
+    <cate expressCate="200001909" aliCate="1037019">
+    </cate>
+    <cate expressCate="200001910" aliCate="319">
+    </cate>
+    <cate expressCate="200000848" aliCate="1036617">
+    </cate>
+    <cate expressCate="200000801" aliCate="1031917">
+    </cate>
+    <cate expressCate="200001914" aliCate="1037020">
+    </cate>
+    <cate expressCate="200000347" aliCate="1031910">
+    </cate>
+    <cate expressCate="200001913" aliCate="1048184">
+    </cate>
+    <cate expressCate="200001915" aliCate="1048256">
+    </cate>
+    <cate expressCate="200000346" aliCate="1048182">
+    </cate>
+    <cate expressCate="200000346" aliCate="1031918">
+    </cate>
+    <cate expressCate="200000347" aliCate="1031910">
+    </cate>
+    <cate expressCate="200000348" aliCate="1037021">
+    </cate>
+    <cate expressCate="200000361" aliCate="1031869">
+    </cate>
+    <cate expressCate="200000362" aliCate="1031871">
+    </cate>
+    <cate expressCate="200000865" aliCate="1037024">
+    </cate>
+    <cate expressCate="200000362" aliCate="1031871">
+    </cate>
+    <cate expressCate="349" aliCate="1031912">
+    </cate>
+    <cate expressCate="200000373" aliCate="321">
+    </cate>
+    <cate expressCate="200001915" aliCate="1048256">
+    </cate>
+    <cate expressCate="200001877" aliCate="1034163">
+    </cate>
+    <cate expressCate="200000798" aliCate="317">
+    </cate>
+    <cate expressCate="200001878" aliCate="1031893">
+    </cate>
+    <cate expressCate="200001879" aliCate="1031897">
+    </cate>
+    <cate expressCate="200001879" aliCate="1031897">
+    </cate>
+    <cate expressCate="200000799" aliCate="1031901">
+    </cate>
+    <cate expressCate="200000344" aliCate="1036995">
+    </cate>
+    <cate expressCate="200000378" aliCate="1031890">
+    </cate>
+    <cate expressCate="348" aliCate="315">
+    </cate>
+    <cate expressCate="200000380" aliCate="1031890">
+    </cate>
+    <cate expressCate="200000386" aliCate="1031902">
+    </cate>
+    <cate expressCate="200000998" aliCate="1043191">
+    </cate>
+    <cate expressCate="200000998" aliCate="1034353">
+    </cate>
+    <cate expressCate="200001011" aliCate="1043193">
+    </cate>
+    <cate expressCate="200001011" aliCate="10170">
+    </cate>
+    <cate expressCate="200001002" aliCate="1034340">
+    </cate>
+    <cate expressCate="200001002" aliCate="1038539">
+    </cate>
+    <cate expressCate="200001012" aliCate="1034353">
+    </cate>
+    <cate expressCate="200000960" aliCate="10170">
+    </cate>
+    <cate expressCate="200000960" aliCate="1038532">
+    </cate>
+    <cate expressCate="152401" aliCate="10282">
+    </cate>
+    <cate expressCate="152402" aliCate="1037361">
+    </cate>
+    <cate expressCate="100002856" aliCate="1037979">
+    </cate>
+    <cate expressCate="200000348" aliCate="303">
+    </cate>
+    <cate expressCate="31103" aliCate="1037192" />
+    <cate expressCate="200001825" aliCate="1037648" />
+    <cate expressCate="31106" aliCate="1037009" />
+    <cate expressCate="200000373" aliCate="10163" />
+    <cate expressCate="200000346" aliCate="1031919" />
+    <cate expressCate="348" aliCate="314" />
+    <cate expressCate="31102" aliCate="1037004" />
+    <cate expressCate="31111" aliCate="1037005" />
+    <cate expressCate="100005724" aliCate="1037011" />
+    <cate expressCate="200000298" aliCate="1043131" />
+    <cate expressCate="200001885" aliCate="1037932" />
+  </cateRel>
+  <attrRel>
+    <attr expressAttrID="200005983" aliAttrID="1281" />
+    <attr expressAttrID="200000303" aliAttrID="31610" />
+    <attr expressAttrID="351" aliAttrID="42842855" />
+    <attr expressAttrID="200000306" aliAttrID="100000709" />
+    <attr expressAttrID="200001085" aliAttrID="7002" />
+    <attr expressAttrID="100007732" aliAttrID="7001" />
+    <attr expressAttrID="100002012" aliAttrID="1991" />
+    <attr expressAttrID="81" aliAttrID="2847" />
+    <attr expressAttrID="200000457" aliAttrID="20602" />
+    <attr expressAttrID="200000306" aliAttrID="31611" />
+    <attr expressAttrID="200000329" aliAttrID="2900" />
+    <attr expressAttrID="200000446" aliAttrID="20680" />
+    <attr expressAttrID="200000362" aliAttrID="2917380" />
+    <attr expressAttrID="200000852" aliAttrID="20677" />
+    <attr expressAttrID="200000137" aliAttrID="1811" />
+    <attr expressAttrID="326" aliAttrID="973" />
+    <attr expressAttrID="200000848" aliAttrID="8523" />
+    <attr expressAttrID="318" aliAttrID="2600" />
+    <attr expressAttrID="200000388" aliAttrID="1701" />
+    <attr expressAttrID="20205" aliAttrID="287" />
+    <attr expressAttrID="1151" aliAttrID="3301" />
+    <attr expressAttrID="200001024" aliAttrID="100018706" />
+  </attrRel>
+  <valueRel>
+    <val expressValueID="200659969" aliValueID="112409" aliName="50%以下" expressName="50%" />
+    <val expressValueID="200659969" aliValueID="112408" aliName="50%以上" expressName="50%" />
+    <val expressValueID="200659970" aliValueID="112407" aliName="60%以上" expressName="60%" />
+    <val expressValueID="200659971" aliValueID="112406" aliName="70%以上" expressName="70%" />
+    <val expressValueID="200659972" aliValueID="112405" aliName="80%以上" expressName="80%" />
+    <val expressValueID="200659973" aliValueID="112404" aliName="90%以上" expressName="90%" />
+    <val expressValueID="1876" aliValueID="203150795" aliName="短款(40cm＜衣长≤50cm)" expressName="短款" />
+    <val expressValueID="200001122" aliValueID="150649458" aliName="普通款(50cm＜衣长≤65cm)" expressName="常规" />
+    <val expressValueID="1875" aliValueID="94995275" aliName="中长款(65cm＜衣长≤80cm)" expressName="长款" />
+    <val expressValueID="1875" aliValueID="176532203" aliName="长款(80cm＜衣长≤100cm)" expressName="长款" />
+    <val expressValueID="200001123" aliValueID="325016437" aliName="加长款(100cm＜衣长)" expressName="加长款" />
+    <val expressValueID="1876" aliValueID="325014493" aliName="超短款(衣长≤40cm)" expressName="短款" />
+    <val expressValueID="200001036" aliValueID="4049881" aliName="直筒型" expressName="直筒型" />
+    <val expressValueID="200005966" aliValueID="3267162" aliName="修身型" expressName="修身型" />
+    <val expressValueID="200005964" aliValueID="27295812" aliName="斗篷型" expressName="蝙蝠型" />
+    <val expressValueID="200001125" aliValueID="103454" aliName="单排扣" expressName="单排扣" />
+    <val expressValueID="200001124" aliValueID="103453" aliName="双排扣" expressName="双排扣" />
+    <val expressValueID="200005959" aliValueID="3216800" aliName="牛角扣" expressName="牛角扣" />
+    <val expressValueID="6830" aliValueID="115481" aliName="拉链" expressName="拉链" />
+    <val expressValueID="200005958" aliValueID="20754689" aliName="暗扣" expressName="暗扣" />
+    <val expressValueID="2581" aliValueID="20213" aliName="其他" expressName="硬" />
+    <val expressValueID="200005942" aliValueID="3216783" aliName="薄款" expressName="薄款" />
+    <val expressValueID="200005943" aliValueID="10004" aliName="普通" expressName="常规" />
+    <val expressValueID="200005944" aliValueID="113060" aliName="加厚" expressName="加厚" />
+    <val expressValueID="200001498" aliValueID="29446" aliName="无袖" expressName="短袖" />
+    <val expressValueID="200001498" aliValueID="29445" aliName="短袖" expressName="短袖" />
+    <val expressValueID="200004139" aliValueID="3216780" aliName="五分袖/中袖" expressName="五分袖/中袖" />
+    <val expressValueID="200004140" aliValueID="4722239" aliName="七分" expressName="七分袖" />
+    <val expressValueID="200001500" aliValueID="6531689" aliName="九分" expressName="长袖" />
+    <val expressValueID="200001500" aliValueID="29444" aliName="长袖" expressName="长袖" />
+    <val expressValueID="100005995" aliValueID="44427519" aliName="棉类混纺" expressName="精纺毛织物" />
+    <val expressValueID="100005994" aliValueID="52571896" aliName="麻类混纺" expressName="粗纺毛织物" />
+    <val expressValueID="100005994" aliValueID="95681998" aliName="毛类混纺" expressName="粗纺毛织物" />
+    <val expressValueID="200659966" aliValueID="112403" aliName="白鹅绒" expressName="白鹅绒" />
+    <val expressValueID="200659967" aliValueID="112402" aliName="灰鹅绒" expressName="灰鹅绒" />
+    <val expressValueID="200659964" aliValueID="112401" aliName="白鸭绒" expressName="白鸭绒" />
+    <val expressValueID="200659965" aliValueID="112400" aliName="灰鸭绒" expressName="灰鸭绒" />
+    <val expressValueID="200659968" aliValueID="41581549" aliName="羽绒棉" expressName="羽毛/毛片" />
+    <val expressValueID="100006504" aliValueID="29447" aliName="圆领" expressName="圆领" />
+    <val expressValueID="6987" aliValueID="20529247" aliName="V字领" expressName="V领" />
+    <val expressValueID="200003574" aliValueID="27316112" aliName="娃娃领" expressName="翻领" />
+    <val expressValueID="100006504" aliValueID="29917" aliName="一字领" expressName="圆领" />
+    <val expressValueID="200003574" aliValueID="29449" aliName="翻领" expressName="翻领" />
+    <val expressValueID="100006504" aliValueID="29538" aliName="方领" expressName="圆领" />
+    <val expressValueID="8317" aliValueID="29541" aliName="立领" expressName="中式立领" />
+    <val expressValueID="200003574" aliValueID="29546" aliName="高领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="3267189" aliName="西装领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="3267194" aliName="双层领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="7486925" aliName="堆堆领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="8348361" aliName="花边领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="9977673" aliName="荷叶领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="28867202" aliName="围巾领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="29075742" aliName="半高领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="29482962" aliName="斜领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="30066992" aliName="半开领" expressName="翻领" />
+    <val expressValueID="100006504" aliValueID="55044166" aliName="波浪领" expressName="圆领" />
+    <val expressValueID="200003574" aliValueID="57658638" aliName="海军领" expressName="翻领" />
+    <val expressValueID="6987" aliValueID="64705760" aliName="U字领" expressName="V领" />
+    <val expressValueID="200003574" aliValueID="111995226" aliName="高领/堆堆领" expressName="翻领" />
+    <val expressValueID="200003574" aliValueID="145646104" aliName="翻领/POLO领" expressName="翻领" />
+    <val expressValueID="200000969" aliValueID="148605857" aliName="连帽/帽领" expressName="带帽领" />
+    <val expressValueID="1893" aliValueID="31603681" aliName="OL通勤/正装" expressName="正装" />
+    <val expressValueID="200000072" aliValueID="29535" aliName="休闲" expressName="休闲" />
+    <val expressValueID="200004125" aliValueID="125200612" aliName="欧美" expressName="欧美" />
+    <val expressValueID="361279" aliValueID="28105" aliName="韩版" expressName="时尚" />
+    <val expressValueID="200004122" aliValueID="29920" aliName="瑞丽" expressName="萝莉" />
+    <val expressValueID="200004126" aliValueID="67958" aliName="日式" expressName="日式" />
+    <val expressValueID="200001278" aliValueID="29931" aliName="朋克" expressName="新奇" />
+    <val expressValueID="100005994" aliValueID="3267650" aliName="毛呢" expressName="粗纺毛织物" />
+    <val expressValueID="100006071" aliValueID="28354" aliName="绸缎" expressName="罗缎" />
+    <val expressValueID="524" aliValueID="3227333" aliName="天鹅绒" expressName="天鹅绒" />
+    <val expressValueID="200001593" aliValueID="28344" aliName="灯芯绒" expressName="灯心绒" />
+    <val expressValueID="100005994" aliValueID="17636597" aliName="呢料" expressName="粗纺毛织物" />
+    <val expressValueID="3154" aliValueID="28349" aliName="化纤" expressName="法兰绒" />
+    <val expressValueID="100005994" aliValueID="105207" aliName="混纺" expressName="粗纺毛织物" />
+    <val expressValueID="100005994" aliValueID="28352" aliName="羊毛" expressName="粗纺毛织物" />
+    <val expressValueID="100005994" aliValueID="3267653" aliName="麻" expressName="粗纺毛织物" />
+    <val expressValueID="200005968" aliValueID="32138992" aliName="裙摆型" expressName="裙摆型" />
+    <val expressValueID="200001125" aliValueID="85462454" aliName="单排两粒扣" expressName="单排扣" />
+    <val expressValueID="200005960" aliValueID="28102" aliName="系带" expressName="系带" />
+    <val expressValueID="200001125" aliValueID="112633" aliName="三粒扣" expressName="单排扣" />
+    <val expressValueID="6987" aliValueID="3267196" aliName="无领" expressName="V领" />
+    <val expressValueID="519" aliValueID="29452" aliName="条纹" expressName="条纹" />
+    <val expressValueID="200004093" aliValueID="29453" aliName="格子" expressName="格子" />
+    <val expressValueID="200001248" aliValueID="29454" aliName="纯色" expressName="纯色" />
+    <val expressValueID="200001251" aliValueID="113019" aliName="圆点" expressName="圆点" />
+    <val expressValueID="200001250" aliValueID="52813" aliName="迷彩" expressName="印花" />
+    <val expressValueID="200001255" aliValueID="4034189" aliName="几何" expressName="几何" />
+    <val expressValueID="365601" aliValueID="28386" aliName="蕾丝" expressName="蕾丝" />
+    <val expressValueID="529" aliValueID="28343" aliName="牛仔布" expressName="帆布" />
+    <val expressValueID="60" aliValueID="3833451" aliName="摇粒绒" expressName="摇粒绒" />
+    <val expressValueID="50" aliValueID="20879148" aliName="雪纺/乔其纱" expressName="雪纺" />
+    <val expressValueID="3154" aliValueID="113357" aliName="聚酯纤维" expressName="法兰绒" />
+    <val expressValueID="200004095" aliValueID="31755" aliName="卡通" expressName="卡通形象" />
+    <val expressValueID="360698" aliValueID="45576" aliName="字母" expressName="字母" />
+    <val expressValueID="200004091" aliValueID="107622" aliName="碎花" expressName="花朵" />
+    <val expressValueID="200003704" aliValueID="3255041" aliName="豹纹" expressName="豹纹" />
+    <val expressValueID="200572203" aliValueID="119898" aliName="笑脸" expressName="人物" />
+    <val expressValueID="200005953" aliValueID="3346764" aliName="骷髅头" expressName="骷髅头" />
+    <val expressValueID="200004097" aliValueID="138009887" aliName="长颈鹿" expressName="动物（实物形象，非卡通）" />
+    <val expressValueID="200001250" aliValueID="129555" aliName="印花" expressName="印花" />
+    <val expressValueID="200004093" aliValueID="3226330" aliName="格纹" expressName="格子" />
+    <val expressValueID="200001251" aliValueID="3503346" aliName="波点" expressName="圆点" />
+    <val expressValueID="200004094" aliValueID="3666157" aliName="斑马纹" expressName="漩涡" />
+    <val expressValueID="200001928" aliValueID="115772" aliName="蝴蝶结" expressName="蝴蝶结" />
+    <val expressValueID="361279" aliValueID="29919" aliName="淑女" expressName="时尚" />
+    <val expressValueID="200001900" aliValueID="43747" aliName="复古" expressName="经典的" />
+    <val expressValueID="361279" aliValueID="3329741" aliName="嘻哈" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="3291373" aliName="英伦" expressName="时尚" />
+    <val expressValueID="200000072" aliValueID="1628" aliName="运动" expressName="休闲" />
+    <val expressValueID="200004127" aliValueID="143709681" aliName="唐装/中式" expressName="中国风" />
+    <val expressValueID="200000072" aliValueID="29935" aliName="民族" expressName="休闲" />
+    <val expressValueID="200004121" aliValueID="29930" aliName="波西米亚" expressName="波西米亚" />
+    <val expressValueID="200001900" aliValueID="3360029" aliName="海军" expressName="经典的" />
+    <val expressValueID="361279" aliValueID="109835873" aliName="简约" expressName="时尚" />
+    <val expressValueID="200001902" aliValueID="14279793" aliName="嬉皮" expressName="街头服饰" />
+    <val expressValueID="361279" aliValueID="12571527" aliName="文艺" expressName="时尚" />
+    <val expressValueID="200004128" aliValueID="3380267" aliName="公主" expressName="名媛" />
+    <val expressValueID="361279" aliValueID="29923" aliName="中性" expressName="时尚" />
+    <val expressValueID="200001900" aliValueID="9402698" aliName="军装" expressName="经典的" />
+    <val expressValueID="200001900" aliValueID="3277844" aliName="乡村" expressName="经典的" />
+    <val expressValueID="361279" aliValueID="3506815" aliName="洛丽塔" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="57738700" aliName="森女" expressName="时尚" />
+    <val expressValueID="200001278" aliValueID="3271861" aliName="摇滚" expressName="新奇" />
+    <val expressValueID="200001900" aliValueID="122521258" aliName="宫廷" expressName="经典的" />
+    <val expressValueID="361279" aliValueID="3800111" aliName="波普" expressName="时尚" />
+    <val expressValueID="200001900" aliValueID="29933" aliName="田园" expressName="经典的" />
+    <val expressValueID="200004124" aliValueID="3267765" aliName="学院" expressName="学院风" />
+    <val expressValueID="200004122" aliValueID="3267776" aliName="甜美" expressName="萝莉" />
+    <val expressValueID="200001902" aliValueID="29934" aliName="街头" expressName="街头服饰" />
+    <val expressValueID="200004117" aliValueID="3516807" aliName="超短裙" expressName="迷你裙" />
+    <val expressValueID="100006003" aliValueID="29962" aliName="中裙" expressName="及膝裙" />
+    <val expressValueID="200004117" aliValueID="29967" aliName="短裙" expressName="迷你裙" />
+    <val expressValueID="200004116" aliValueID="14044701" aliName="中长裙" expressName="及小腿肚裙" />
+    <val expressValueID="200001484" aliValueID="29963" aliName="长裙" expressName="及踝裙" />
+    <val expressValueID="3154" aliValueID="28355" aliName="涤纶" expressName="法兰绒" />
+    <val expressValueID="3154" aliValueID="130856" aliName="呢绒" expressName="法兰绒" />
+    <val expressValueID="200013017" aliValueID="27924515" aliName="常规袖" expressName="常规袖" />
+    <val expressValueID="200004152" aliValueID="7216758" aliName="灯笼袖" expressName="灯笼袖" />
+    <val expressValueID="200004151" aliValueID="5618747" aliName="泡泡袖" expressName="泡泡袖" />
+    <val expressValueID="200013017" aliValueID="11245515" aliName="公主袖" expressName="常规袖" />
+    <val expressValueID="200005298" aliValueID="27414678" aliName="荷叶袖" expressName="荷叶袖" />
+    <val expressValueID="200004154" aliValueID="42625521" aliName="花瓣袖" expressName="花瓣袖" />
+    <val expressValueID="200004154" aliValueID="95316670" aliName="飞飞袖" expressName="花瓣袖" />
+    <val expressValueID="200004151" aliValueID="145654279" aliName="堆堆袖" expressName="泡泡袖" />
+    <val expressValueID="200013017" aliValueID="27414630" aliName="插肩袖" expressName="常规袖" />
+    <val expressValueID="200013017" aliValueID="33331631" aliName="牛角袖" expressName="常规袖" />
+    <val expressValueID="200013017" aliValueID="27414723" aliName="衬衫袖" expressName="常规袖" />
+    <val expressValueID="200004150" aliValueID="19306903" aliName="喇叭袖" expressName="喇叭袖" />
+    <val expressValueID="200004153" aliValueID="7576170" aliName="蝙蝠袖" expressName="蝙蝠袖" />
+    <val expressValueID="200004152" aliValueID="27414703" aliName="包袖" expressName="灯笼袖" />
+    <val expressValueID="200001033" aliValueID="29952" aliName="高腰" expressName="高腰" />
+    <val expressValueID="200001032" aliValueID="29954" aliName="中腰" expressName="中腰" />
+    <val expressValueID="200001031" aliValueID="29953" aliName="低腰" expressName="低腰" />
+    <val expressValueID="200001502" aliValueID="69496479" aliName="超低腰" expressName="低腰线" />
+    <val expressValueID="100013929" aliValueID="26363889" aliName="松紧腰" expressName="自然" />
+    <val expressValueID="100013929" aliValueID="95284510" aliName="宽松腰" expressName="自然" />
+    <val expressValueID="200004136" aliValueID="130312" aliName="蛋糕裙" expressName="花苞裙" />
+    <val expressValueID="100013540" aliValueID="5421384" aliName="公主裙" expressName="蓬蓬裙" />
+    <val expressValueID="100013540" aliValueID="9834279" aliName="灯笼裙" expressName="蓬蓬裙" />
+    <val expressValueID="200004138" aliValueID="130313" aliName="百褶裙" expressName="百褶裙" />
+    <val expressValueID="200001038" aliValueID="12652518" aliName="铅笔裙" expressName="直筒裙" />
+    <val expressValueID="200004136" aliValueID="6129887" aliName="荷叶边裙" expressName="花苞裙" />
+    <val expressValueID="8329" aliValueID="3596436" aliName="不规则裙" expressName="不对称" />
+    <val expressValueID="100013540" aliValueID="106225407" aliName="大摆型" expressName="蓬蓬裙" />
+    <val expressValueID="100006419" aliValueID="130318" aliName="A字裙" expressName="A字裙" />
+    <val expressValueID="200001038" aliValueID="14320260" aliName="一步裙" expressName="直筒裙" />
+    <val expressValueID="200001887" aliValueID="103422" aliName="套头" expressName="套头衫" />
+    <val expressValueID="200001368" aliValueID="103423" aliName="开衫" expressName="开衫" />
+    <val expressValueID="200005656" aliValueID="28021" aliName="背带裤" expressName="背带裤/连体裤" />
+    <val expressValueID="200001036" aliValueID="29556" aliName="直筒裤" expressName="直筒型" />
+    <val expressValueID="200005662" aliValueID="31616226" aliName="铅笔裤/小脚裤" expressName="小脚/铅笔裤" />
+    <val expressValueID="200005661" aliValueID="115478" aliName="微喇裤" expressName="喇叭裤" />
+    <val expressValueID="200005663" aliValueID="47489" aliName="靴裤" expressName="靴裤" />
+    <val expressValueID="200005657" aliValueID="29561" aliName="工装裤" expressName="工装裤" />
+    <val expressValueID="200005660" aliValueID="29557" aliName="阔腿裤" expressName="阔脚裤" />
+    <val expressValueID="200005658" aliValueID="33928193" aliName="多袋裤" expressName="哈伦裤" />
+    <val expressValueID="200005658" aliValueID="29562" aliName="滑板裤" expressName="哈伦裤" />
+    <val expressValueID="200005659" aliValueID="115480" aliName="垮裤" expressName="垮裤" />
+    <val expressValueID="200005658" aliValueID="29519436" aliName="哈伦裤" expressName="哈伦裤" />
+    <val expressValueID="200005674" aliValueID="3267793" aliName="涂层牛仔布" expressName="涂层牛仔布" />
+    <val expressValueID="200005673" aliValueID="3267794" aliName="加厚牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="200005673" aliValueID="3267795" aliName="薄牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="200005673" aliValueID="3267796" aliName="全棉牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="200005673" aliValueID="3267797" aliName="条纹牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="200005672" aliValueID="3267798" aliName="格仔牛仔布" expressName="格纹牛仔布" />
+    <val expressValueID="200005673" aliValueID="3267799" aliName="金属丝牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="200005673" aliValueID="173040041" aliName="棉弹牛仔布" expressName="条纹牛仔布" />
+    <val expressValueID="97" aliValueID="173040042" aliName="其他混合牛仔布" expressName="斜纹" />
+    <val expressValueID="200004120" aliValueID="119853603" aliName="微喇型" expressName="喇叭型" />
+    <val expressValueID="200004120" aliValueID="133067514" aliName="大喇叭型" expressName="喇叭型" />
+    <val expressValueID="200001034" aliValueID="22599081" aliName="锥型" expressName="紧身型" />
+    <val expressValueID="200001034" aliValueID="87234012" aliName="紧身型" expressName="紧身型" />
+    <val expressValueID="200001035" aliValueID="120743895" aliName="宽筒型" expressName="宽松型" />
+    <val expressValueID="200001035" aliValueID="4042331" aliName="宽松型" expressName="宽松型" />
+    <val expressValueID="200001036" aliValueID="9636891" aliName="健美裤" expressName="直筒型" />
+    <val expressValueID="200004117" aliValueID="152946352" aliName="超短/迷你裙" expressName="迷你裙" />
+    <val expressValueID="200001377" aliValueID="3216767" aliName="小坎肩" expressName="小坎肩" />
+    <val expressValueID="200001381" aliValueID="3217111" aliName="斗篷款" expressName="披肩" />
+    <val expressValueID="100006598" aliValueID="14183720" aliName="棒针" expressName="电脑针织" />
+    <val expressValueID="361863" aliValueID="8158947" aliName="钩针" expressName="钩编" />
+    <val expressValueID="100006599" aliValueID="94024405" aliName="横机编织" expressName="横机针织" />
+    <val expressValueID="100006600" aliValueID="3330653" aliName="手工编织" expressName="手针编织" />
+    <val expressValueID="100006598" aliValueID="156526232" aliName="电脑横机编织" expressName="电脑针织" />
+    <val expressValueID="200001250" aliValueID="29455" aliName="手绘" expressName="印花" />
+    <val expressValueID="200572203" aliValueID="40785" aliName="头像" expressName="人物" />
+    <val expressValueID="200004094" aliValueID="111409" aliName="抽象" expressName="漩涡" />
+    <val expressValueID="200004091" aliValueID="99819" aliName="花朵" expressName="花朵" />
+    <val expressValueID="200004097" aliValueID="3249562" aliName="大嘴猴" expressName="动物（实物形象，非卡通）" />
+    <val expressValueID="200659968" aliValueID="716" aliName="水鸟绒" expressName="羽毛/毛片" />
+    <val expressValueID="200659968" aliValueID="9947" aliName="白毛片" expressName="羽毛/毛片" />
+    <val expressValueID="200659968" aliValueID="324818072" aliName="灰毛片" expressName="羽毛/毛片" />
+    <val expressValueID="200659968" aliValueID="211474368" aliName="人造羽绒" expressName="羽毛/毛片" />
+    <val expressValueID="200000072" aliValueID="28393235" aliName="休闲西服" expressName="休闲" />
+    <val expressValueID="200000072" aliValueID="4382897" aliName="夹克" expressName="休闲" />
+    <val expressValueID="361279" aliValueID="25507227" aliName="尼克服" expressName="时尚" />
+    <val expressValueID="200001003" aliValueID="3267628" aliName="拉链开襟" expressName="拉链" />
+    <val expressValueID="200001000" aliValueID="3267629" aliName="纽扣开襟" expressName="钮扣" />
+    <val expressValueID="200001001" aliValueID="3267630" aliName="系绳闭襟" expressName="系带" />
+    <val expressValueID="494" aliValueID="20533" aliName="女" expressName="女士" />
+    <val expressValueID="493" aliValueID="20532" aliName="男" expressName="男士" />
+    <val expressValueID="1882" aliValueID="71508240" aliName="中性/男女均可" expressName="男女通用" />
+    <val expressValueID="200000072" aliValueID="29921" aliName="百搭" expressName="休闲" />
+    <val expressValueID="200001278" aliValueID="3249245" aliName="个性" expressName="新奇" />
+    <val expressValueID="200000071" aliValueID="130161" aliName="OL通勤" expressName="正式" />
+    <val expressValueID="361279" aliValueID="114571622" aliName="日式风范" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="53763309" aliName="韩版风范" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="33540752" aliName="欧美风范" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="3228613" aliName="卡通可爱" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="3228614" aliName="甜美淑女" expressName="时尚" />
+    <val expressValueID="200000072" aliValueID="132483" aliName="民族风" expressName="休闲" />
+    <val expressValueID="361279" aliValueID="3436264" aliName="复古风" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="121649193" aliName="潮酷风范" expressName="时尚" />
+    <val expressValueID="200000072" aliValueID="3882872" aliName="学院风" expressName="休闲" />
+    <val expressValueID="200000072" aliValueID="307274068" aliName="小清新/文艺" expressName="休闲" />
+    <val expressValueID="361279" aliValueID="149274800" aliName="朋克/摇滚" expressName="时尚" />
+    <val expressValueID="361279" aliValueID="3228616" aliName="时尚运动" expressName="时尚" />
+    <val expressValueID="200004091" aliValueID="111408" aliName="花卉" expressName="花朵" />
+    <val expressValueID="360698" aliValueID="123656" aliName="文字" expressName="字母" />
+    <val expressValueID="200001255" aliValueID="3222243" aliName="几何图案" expressName="几何" />
+    <val expressValueID="200004095" aliValueID="6797291" aliName="动漫卡通" expressName="卡通形象" />
+    <val expressValueID="200001250" aliValueID="98534" aliName="水果" expressName="印花" />
+    <val expressValueID="200001250" aliValueID="40793" aliName="风景" expressName="印花" />
+    <val expressValueID="200003921" aliValueID="11031137" aliName="敞口" expressName="敞口" />
+    <val expressValueID="200003920" aliValueID="11031105" aliName="包盖式" expressName="包盖式" />
+    <val expressValueID="200001601" aliValueID="15532895" aliName="磁扣" expressName="搭扣" />
+    <val expressValueID="200001599" aliValueID="3221906" aliName="抽带" expressName="绳子" />
+    <val expressValueID="200001601" aliValueID="95742" aliName="挂钩" expressName="搭扣" />
+    <val expressValueID="200003919" aliValueID="3227269" aliName="魔术贴" expressName="魔术贴" />
+    <val expressValueID="200001602" aliValueID="3221905" aliName="拉链搭扣" expressName="拉链搭扣" />
+    <val expressValueID="200001601" aliValueID="3221907" aliName="抽带搭扣" expressName="搭扣" />
+    <val expressValueID="1042" aliValueID="44660" aliName="真皮" expressName="真皮" />
+    <val expressValueID="452" aliValueID="30078" aliName="PU皮" expressName="PU" />
+    <val expressValueID="200001062" aliValueID="30079" aliName="仿皮" expressName="仿皮" />
+    <val expressValueID="452" aliValueID="30082" aliName="合成革" expressName="PU" />
+    <val expressValueID="529" aliValueID="28401" aliName="帆布" expressName="帆布" />
+    <val expressValueID="365211" aliValueID="53908" aliName="棉布" expressName="棉布" />
+    <val expressValueID="115" aliValueID="130855" aliName="麻布" expressName="亚麻" />
+    <val expressValueID="360758" aliValueID="3283716" aliName="牛津布" expressName="牛津布" />
+    <val expressValueID="439" aliValueID="27161" aliName="塑料" expressName="PVC" />
+    <val expressValueID="452" aliValueID="4373898" aliName="革" expressName="PU" />
+    <val expressValueID="1045" aliValueID="135793" aliName="软" expressName="软" />
+    <val expressValueID="1045" aliValueID="38033265" aliName="中偏软" expressName="软" />
+    <val expressValueID="1045" aliValueID="109101" aliName="中" expressName="软" />
+    <val expressValueID="2581" aliValueID="74779112" aliName="中偏硬" expressName="硬" />
+    <val expressValueID="2581" aliValueID="135791" aliName="硬" expressName="硬" />
+    <val expressValueID="200005174" aliValueID="8850328" aliName="休闲运动包" expressName="日常背包" />
+    <val expressValueID="200005156" aliValueID="199630441" aliName="专业运动包" expressName="普通野营徒步" />
+    <val expressValueID="200005156" aliValueID="12555424" aliName="户外包" expressName="普通野营徒步" />
+    <val expressValueID="200005157" aliValueID="20691" aliName="登山包" expressName="专业登山" />
+    <val expressValueID="200005156" aliValueID="84858" aliName="骑行包" expressName="普通野营徒步" />
+    <val expressValueID="200005174" aliValueID="6225311" aliName="防水包" expressName="日常背包" />
+    <val expressValueID="200005156" aliValueID="13009890" aliName="野餐包" expressName="普通野营徒步" />
+  </valueRel>
+  <CateAI>
+    <cat expressCate="200000298" iofferCate="1010733" />
+    <cat expressCate="200001908" iofferCate="1010344" />
+    <cat expressCate="200000347" iofferCate="1010349" />
+    <cat expressCate="200000346" iofferCate="1010338" />
+    <cat expressCate="200003494" iofferCate="1010332" />
+    <cat expressCate="200001916" iofferCate="1010336" />
+    <cat expressCate="200001907" iofferCate="1010344" />
+    <cat expressCate="200000366" iofferCate="1010342" />
+    <cat expressCate="200000348" iofferCate="1010332" />
+    <cat expressCate="200001885" iofferCate="1010638" />
+    <cat expressCate="200001915" iofferCate="1010332" />
+    <cat expressCate="200000801" iofferCate="1010350" />
+    <cat expressCate="200001909" iofferCate="1010350" />
+    <cat expressCate="200001910" iofferCate="1010344" />
+    <cat expressCate="200001914" iofferCate="1010332" />
+    <cat expressCate="200000373" iofferCate="1010331" />
+    <cat expressCate="200001911" iofferCate="1010350" />
+    <cat expressCate="200003289" iofferCate="1010351" />
+    <cat expressCate="200000848" iofferCate="1010344" />
+    <cat expressCate="349" iofferCate="1010336" />
+    <cat expressCate="200000791" iofferCate="1010328" />
+    <cat expressCate="200001877" iofferCate="1010404" />
+    <cat expressCate="200000799" iofferCate="1010395" />
+    <cat expressCate="200003458" iofferCate="1010358" />
+    <cat expressCate="200003446" iofferCate="1010358" />
+    <cat expressCate="200003438" iofferCate="1010358" />
+    <cat expressCate="200001878" iofferCate="1010404" />
+    <cat expressCate="200000798" iofferCate="1010404" />
+    <cat expressCate="200000344" iofferCate="1010404" />
+    <cat expressCate="200000790" iofferCate="1010328" />
+    <cat expressCate="200000362" iofferCate="1010342" />
+  </CateAI>
+</info>

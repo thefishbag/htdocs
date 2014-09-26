@@ -1,0 +1,68 @@
+
+.navbar{width: 100%; min-width: 1170px; height: 120px; position: fixed;  z-index: 999;}
+#whiteBg{width: 100%; min-width: 1170px; height: 90px; background-color: #fff;}
+.slidershadow{background-image: url("images/shadow.png"); width: 100%; height:32px; background-size: 100% 100%; }
+.container{width: 1170px; height: 90px; margin: auto; }
+#logo{width:190px; height: 90px; background-image: url("images/logo.png"); float: left; }
+
+#menu{width: 900px; height: 90px;  float: right; }
+
+#content{width: 100%; min-width: 1170px;  height: auto; padding-top:90px;}
+.contentA{ width: 100%; min-width: 1170px; height: 600px; }
+#content:after{height: 0; visibility: hidden;display: block;clear: both;}
+.menuA
+{
+	display:block; 
+	width: 80px; 
+	float: left;  
+	padding: 30px 0 10px 0; 
+	height: 50px;   
+	line-height: 30px; 
+	font-size: 14px; 
+	color: rgb(119,119,119); 
+	font-family: 微软雅黑; 
+	text-decoration: none;  
+	background-repeat: no-repeat; 
+	cursor: pointer;
+}
+
+.curMenuA{background-color: rgb(19, 175, 235); color: #ffffff; }
+.leftC
+{
+	width: 200px; 
+	padding: 130px;
+	height: 200px; 
+	float: left; 
+	position: relative;
+	z-index: 100;
+}
+.rightC{width: 750px; padding: 30px 30px 30px 0; height: 540px; float: right; font-family: 微软雅黑; color: #666;}
+.bigi{color: #ffffff; width: 200px; height: 200px; line-height: 200px; text-align: center; display: block; text-shadow:1px 1px 15px rgba(0,0,0,0.4); font-size: 140px;}
+
+h2{ font-size: 26px; text-align: left;  line-height: 40px; text-shadow:1px 1px 3px rgba(0,0,0,0.5); }
+h4{ color: #999; font-size: 18px; text-align: left; font-weight: normal; line-height: 40px;  }
+#footer{width: 100%; height: 0;}
+.blocke{display: block;}
+
+.goodul{padding: 30px; text-align: left;}
+.goodul li{line-height: 50px; cursor: pointer;}
+.goodli .fa{padding: 0 15px 0 0;}
+
+.viewMore{cursor: pointer; display:block; padding: 16px 40px 16px 40px; text-decoration: none; color: #ffffff; font-size: 12px; background-color: rgb(39,39,39); text-align: left; border-radius: 5px; float: left;}
+#listitem{background-color: #eee; color: #454545;}
+#caiji{background-color: #687d9d; }
+#caiji *{color: #eeeeee;}
+#piliang{background-color: #eee; color: #454545;}
+#quehuo{background-color: #687d9d; }
+#quehuo *{color: #eeeeee;}
+#yingxiao{background-color: #eee; color: #454545;}
+#order{background-color: #687d9d; }
+#order *{color: #eeeeee;}
+#kuozhan{background-color: #eee; color: #454545;}
+#download{background-color: #687d9d; }
+#download *{color: #eeeeee;}
+
+#downA{display: block; width: 200px; height: 250px; margin: 50px auto; background-image: url("images/bigfish.png"); background-repeat:no-repeat; box-shadow: 1px 1px 50px  rgba(12,34,56,0.5); border-radius: 10px; background-position: 50% 100px;}
+.centertxt{height: 40px; line-height: 40px; text-align: center; padding: 50px 0 0 0; color: #666; font-family: 微软雅黑; font-weight: normal; font-size: 20px;}
+.downBtn{width: 200px; margin: 50px auto; text-align: center;float: none; height:60px; line-height: 60px; padding: 0; }
+.downi{font-size: 60px; color: #687d9d; text-align: center; line-height: 90px;}

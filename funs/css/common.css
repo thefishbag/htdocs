@@ -1,0 +1,6 @@
+*{margin: 0; padding: 0;}
+img{border: 0;}
+ul,li{list-style: none;}
+body{text-align: center; font-family: 微软雅黑; width: 1300px; min-height: 680px;background-color: #ebeef2;}
+a{text-decoration: none;}
+#pagediv{display: none;}
